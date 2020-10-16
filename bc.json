@@ -67,7 +67,7 @@
         {
             "slug": "01.2-Retrieve-items",
             "title": "01.2-Retrieve-items",
-            "done": false,
+            "done": true,
             "path": "exercises/01.2-Retrieve-items",
             "translations": [
                 "es",
