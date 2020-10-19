@@ -133,7 +133,7 @@
         {
             "slug": "02.2-Loop-adding-two",
             "title": "02.2-Loop-adding-two",
-            "done": false,
+            "done": true,
             "path": "exercises/02.2-Loop-adding-two",
             "translations": [
                 "es",
