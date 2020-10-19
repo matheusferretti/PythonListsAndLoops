@@ -89,7 +89,7 @@
         {
             "slug": "01.4-Add-item-to-list",
             "title": "01.4-Add-item-to-list",
-            "done": false,
+            "done": true,
             "path": "exercises/01.4-Add-item-to-list",
             "translations": [
                 "es",
