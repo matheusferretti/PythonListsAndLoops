@@ -122,7 +122,7 @@
         {
             "slug": "02.1-Loop-from-the-top",
             "title": "02.1-Loop-from-the-top",
-            "done": false,
+            "done": true,
             "path": "exercises/02.1-Loop-from-the-top",
             "translations": [
                 "es",
