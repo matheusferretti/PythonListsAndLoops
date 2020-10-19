@@ -111,7 +111,7 @@
         {
             "slug": "02-Loop-list",
             "title": "02-Loop-list",
-            "done": false,
+            "done": true,
             "path": "exercises/02-Loop-list",
             "translations": [
                 "es",
