@@ -232,7 +232,7 @@
         {
             "slug": "06-forEach_loop",
             "title": "06-forEach_loop",
-            "done": false,
+            "done": true,
             "path": "exercises/06-forEach_loop",
             "translations": [
                 "es",
