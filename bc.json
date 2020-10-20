@@ -221,7 +221,7 @@
         {
             "slug": "05.1-sum_odd_items",
             "title": "05.1-sum_odd_items",
-            "done": false,
+            "done": true,
             "path": "exercises/05.1-sum_odd_items",
             "translations": [
                 "es",
