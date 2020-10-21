@@ -276,7 +276,7 @@
         {
             "slug": "08.1-Merge_list",
             "title": "08.1-Merge_list",
-            "done": false,
+            "done": true,
             "path": "exercises/08.1-Merge_list",
             "translations": [
                 "es",
