@@ -265,7 +265,7 @@
         {
             "slug": "08-Delete_element",
             "title": "08-Delete_element",
-            "done": false,
+            "done": true,
             "path": "exercises/08-Delete_element",
             "translations": [
                 "es",
