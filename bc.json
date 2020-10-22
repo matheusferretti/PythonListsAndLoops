@@ -408,7 +408,7 @@
         {
             "slug": "12.5-Yes_and_no",
             "title": "12.5-Yes_and_no",
-            "done": false,
+            "done": true,
             "path": "exercises/12.5-Yes_and_no",
             "translations": [
                 "es",
