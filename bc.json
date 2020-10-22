@@ -386,7 +386,7 @@
         {
             "slug": "12.3-Map_data_types",
             "title": "12.3-Map_data_types",
-            "done": false,
+            "done": true,
             "path": "exercises/12.3-Map_data_types",
             "translations": [
                 "es",
