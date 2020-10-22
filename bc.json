@@ -353,7 +353,7 @@
         {
             "slug": "12-Map_a_list",
             "title": "12-Map_a_list",
-            "done": false,
+            "done": true,
             "path": "exercises/12-Map_a_list",
             "translations": [
                 "es",
