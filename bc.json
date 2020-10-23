@@ -451,7 +451,7 @@
         {
             "slug": "13.2-filter_done_tasks",
             "title": "13.2-filter_done_tasks",
-            "done": false,
+            "done": true,
             "path": "exercises/13.2-filter_done_tasks",
             "translations": [
                 "es",

@@ -13,4 +13,5 @@ tasks = [
 
 #Your code go here:
 
-
+doneTasks = list(filter(lambda task: task["done"], tasks))
+print(doneTasks)
