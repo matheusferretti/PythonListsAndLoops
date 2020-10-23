@@ -419,7 +419,7 @@
         {
             "slug": "12.6-Transformers",
             "title": "12.6-Transformers",
-            "done": false,
+            "done": true,
             "path": "exercises/12.6-Transformers",
             "translations": [
                 "es",
