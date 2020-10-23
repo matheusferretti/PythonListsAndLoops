@@ -462,7 +462,7 @@
         {
             "slug": "13.3-Filter_list_strings",
             "title": "13.3-Filter_list_strings",
-            "done": false,
+            "done": true,
             "path": "exercises/13.3-Filter_list_strings",
             "translations": [
                 "es",
