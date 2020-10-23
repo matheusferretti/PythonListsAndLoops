@@ -3,6 +3,10 @@ all_names = ["Romario","Boby","Roosevelt","Emiliy", "Michael", "Greta", "Patrici
 
 #Your code go here:
 
+def my_function(names):
+    return names.startswith("R")
+
+resulting_names = list(filter(my_function, all_names))
 print(resulting_names)
 
 

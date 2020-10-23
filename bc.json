@@ -441,7 +441,7 @@
         {
             "slug": "13.1-Filter_and_list",
             "title": "13.1-Filter_and_list",
-            "done": false,
+            "done": true,
             "path": "exercises/13.1-Filter_and_list",
             "translations": [
                 "us"
