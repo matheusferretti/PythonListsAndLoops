@@ -430,7 +430,7 @@
         {
             "slug": "13-Filter_list",
             "title": "13-Filter_list",
-            "done": false,
+            "done": true,
             "path": "exercises/13-Filter_list",
             "translations": [
                 "es",
