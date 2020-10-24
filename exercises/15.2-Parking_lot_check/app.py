@@ -13,7 +13,7 @@ def get_parking_lot(list1):
             if x[i] == 1:
                 slots["occupiedSlots"] += 1
                 slots["totalSlots"] += 1
-            else:
+            elif x[i] == 2:
                 slots["availableSlots"] += 1
                 slots["totalSlots"] += 1
     return slots
